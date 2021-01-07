@@ -31,8 +31,12 @@ In addition to this, if you are getting molds made for these icons to be manufac
 
 
 ## Special Thanks To...
-*Swishy, for basically telling me to make custom icons.
-*NoPunIn10Did, for providing lots of guiding ideas on how to design the icons (You can thank him for scroll and numlock's design).
-*[The 40% Discord](http://discord.gg/40percent) for providing constructive feedback and overall encouragement from the project's conception.
-*[The Keycap Designers Discord](https://discord.gg/X2aMsjBNNt) for also providing constructive feedback.
-*And, to you, for bothering to read all the way to the bottom of the page!
+-Swishy, for basically telling me to make custom icons.
+
+-NoPunIn10Did, for providing lots of guiding ideas on how to design the icons (You can thank him for scroll and numlock's design).
+
+-[The 40% Discord](http://discord.gg/40percent) for providing constructive feedback and overall encouragement from the project's conception.
+
+-[The Keycap Designers Discord](https://discord.gg/X2aMsjBNNt) for also providing constructive feedback.
+
+-And, to you, for bothering to read all the way to the bottom of the page!
